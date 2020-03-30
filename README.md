@@ -1,3 +1,7 @@
+## DEPRECATED
+
+This repository has been moved here [berkeleypayment/pungle-sdk-android](https://github.com/berkeleypayment/pungle-sdk-android)
+
 # Pungle Android SDK
 
 ## Installation
